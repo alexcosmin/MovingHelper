@@ -32,6 +32,7 @@
 		9BBB3E4C1B36278C002AF4EF /* TaskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BBB3E4B1B36278C002AF4EF /* TaskTests.swift */; };
 		9BDC44B11B2545AE00D9328F /* TaskLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDC44B01B2545AE00D9328F /* TaskLoader.swift */; };
 		9BDC44B51B25486100D9328F /* MovingDateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BDC44B41B25486100D9328F /* MovingDateViewController.swift */; };
+		FA2141FD1BD2B6F000E0721C /* TaskCellTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2141FC1BD2B6F000E0721C /* TaskCellTests.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +75,7 @@
 		9BBB3E4B1B36278C002AF4EF /* TaskTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskTests.swift; sourceTree = "<group>"; };
 		9BDC44B01B2545AE00D9328F /* TaskLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskLoader.swift; sourceTree = "<group>"; };
 		9BDC44B41B25486100D9328F /* MovingDateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovingDateViewController.swift; sourceTree = "<group>"; };
+		FA2141FC1BD2B6F000E0721C /* TaskCellTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskCellTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +145,7 @@
 			children = (
 				9BBB3E491B36231C002AF4EF /* ExtensionTests.swift */,
 				9BBB3E4B1B36278C002AF4EF /* TaskTests.swift */,
+				FA2141FC1BD2B6F000E0721C /* TaskCellTests.swift */,
 				9B923E191B25190E0095F507 /* Supporting Files */,
 			);
 			path = MovingHelperTests;
@@ -340,6 +343,7 @@
 			files = (
 				9BBB3E4A1B36231C002AF4EF /* ExtensionTests.swift in Sources */,
 				9BBB3E4C1B36278C002AF4EF /* TaskTests.swift in Sources */,
+				FA2141FD1BD2B6F000E0721C /* TaskCellTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
